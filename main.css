@@ -1,0 +1,27 @@
+.enclose {
+    text-align: center;
+}
+
+.grid-container {
+    overflow: auto;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 0 auto;
+    resize: both;
+    display: inline-block;
+}
+
+.row {
+    margin: 0 auto;
+    resize: both;
+    overflow: auto;
+    text-align: center;
+    padding: 1px;
+}
+
+.cell {
+}
+
+#sub {
+    margin: 10 auto;
+}
